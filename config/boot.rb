@@ -25,3 +25,4 @@ require 'rails/all'
 # require "action_view/railtie"
 # require "action_mailer/railtie"
 # require "active_resource/railtie"
+# require "rails/test_unit/railtie"

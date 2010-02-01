@@ -1,13 +1,8 @@
 # Edit this Gemfile to bundle your application's dependencies.
 
-directory "/Users/mikel/rails_programs/rails", :glob => "{*/,}*.gemspec"
-git "git://github.com/rails/arel.git"
-git "git://github.com/rails/rack.git"
-
-gem "rails", "3.0.pre"
-
 ## Bundle edge rails:
-#gem "rails", :git => "git://github.com/rails/rails.git"
+directory "/Users/mikel/rails_programs/rails", :glob => "{*/,}*.gemspec"
+gem "rails", "3.0.pre"
 
 ## Bundle the gems you use:
 # gem "bj"

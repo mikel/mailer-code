@@ -1,9 +1,11 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
-one:
-  name: MyString
-  email: MyString
+some_user_in_your_fixtures:
+  name: Mikel Lindsaar
+  email: mikel@example.org
+  login: raasdnil
 
 two:
   name: MyString
   email: MyString
+  login: MyString

@@ -6,7 +6,7 @@
 # no regular words or you'll be exposed to dictionary attacks.
 ActionController::Base.session = {
   :key    => '_mailer-guide-code_session',
-  :secret => 'd02100653f4bd12488efe9b658fa5d1999f3fe4dfb9d9e8748922294976383b865475a05e0b7d8f04ef6932b88a43c2c2fbc08075389d750eaf4c29184bd239d'
+  :secret => '1885c5ca6396e2da3aec558378c1e1f0557e1e2416091979112b55b71d690b94dd37979cb815fb4e94a0a5726b9204085ba4c81006bb5aef2b1238b9ff11fa68'
 }
 
 # Use the database for sessions instead of the cookie-based default,
